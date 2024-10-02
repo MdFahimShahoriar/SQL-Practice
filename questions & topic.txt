@@ -1,0 +1,63 @@
+1. create table
+2. insert sample data
+3. --Select all data from each table
+4. --Show all columns and their details for each table
+5. Basic Data Retrieval
+--Select all columns from a table:
+--Select specific columns from a table
+--Select distinct values:
+6. --Filtering Data
+--Filter rows using the WHERE clause
+--Filter rows using multiple conditions:
+--Filter rows using the IN operator:
+7. --Sorting Data
+--Order results by a column:
+--Order results by multiple columns:
+8. --Aggregating Data
+--Count the number of rows:
+--Calculate the average value:
+--Find the minimum and maximum values:
+9. --Grouping Data
+--Group by a column and count:
+--Group by multiple columns:
+10. --Joining Tables
+--Inner join between Books and Authors:
+--Left join between Books and Authors:
+11. --Subqueries
+--Subquery in the WHERE clause:
+--Subquery in the SELECT clause
+12. --Advanced Queries
+--Using CASE statements:
+--Using COALESCE to handle NULL values:
+--Using UNION to combine results from multiple queries:
+13. --Updating Data
+--Update a single column:
+--Update multiple columns:
+14. --Deleting Data
+--Delete specific rows:
+--Delete all rows from a table:
+15. --Merging Data
+--Merge (upsert) data
+16. --Advanced Data Retrieval
+--Using LIKE for pattern matching:
+--Using BETWEEN for range filtering
+--Using EXISTS to check for the existence of rows:
+17. --Window Functions
+--Using ROW_NUMBER for ranking:
+--Using SUM with PARTITION BY
+18. --Advanced Data Retrieval
+--Using CTE (Common Table Expressions):
+--Using Recursive CTE:
+--Using PIVOT to transform data:
+19.--Advanced Data Manipulation
+--Using TRIGGERS to automate actions:
+--Using STORED PROCEDURES for reusable code:
+--Using TRANSACTIONS to ensure data integrity
+20. --Performance Optimization
+--Creating INDEXES to speed up queries
+--Using EXPLAIN to analyze query performance:
+21. --Security and Permissions
+--Granting and revoking permissions:
+22. --Data Export and Import
+--Exporting data to a CSV file
+--Importing data from a CSV file:
